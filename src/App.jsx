@@ -120,7 +120,7 @@ function App() {
 
   return (
     <div>
-      <h1>Products</h1>
+      <h1>Kitref - The best place to for Milwaukee Packout Tips and Tricks!</h1>
       {loading ? (
         <p>Loading...</p>
       ) : cards.length === 0 ? (
