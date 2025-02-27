@@ -31,6 +31,9 @@ function App() {
       <p className="read-the-docs">
         Home of Kitref
       </p>
+      <p>
+        {import.meta.env.VITE_TEST_KEY}
+      </p>
     </>
   )
 }
