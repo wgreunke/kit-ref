@@ -26,7 +26,7 @@ function App() {
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
+        </p> 
       </div>
       <p className="read-the-docs">
         Home of Kitref
