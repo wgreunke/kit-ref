@@ -32,7 +32,7 @@ function App() {
         Home of Kitref
       </p>
       <p>
-        {import.meta.env.VITE_TEST_KEY}
+
       </p>
     </>
   )
